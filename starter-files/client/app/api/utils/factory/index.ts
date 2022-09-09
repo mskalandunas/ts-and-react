@@ -1,0 +1,1 @@
+export { clientFactory } from './factory';
